@@ -18,7 +18,8 @@ static const variant_info_t veux_global_info = {
     .marketname = "Redmi Note 11 Pro 5G",
     .model = "2201116SG",
     .name = "veux_global",
-    .build_fingerprint = "Redmi/veux_global/veux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "Redmi/veux_global/veux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
+    
 
     .nfc = true,
 };
@@ -32,7 +33,7 @@ static const variant_info_t veux_info = {
     .marketname = "Redmi Note 11E Pro",
     .model = "2201116SC",
     .name = "veux",
-    .build_fingerprint = "Redmi/veux/veux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "Redmi/veux/veux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -46,7 +47,7 @@ static const variant_info_t peux_in_info = {
     .marketname = "Redmi Note 11 Pro+ 5G",
     .model = "2201116SI",
     .name = "peux_in",
-    .build_fingerprint = "Redmi/peux_in/peux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "Redmi/peux_in/peux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
 };
 
 static const variant_info_t veux_jp_info = {
@@ -58,7 +59,7 @@ static const variant_info_t veux_jp_info = {
     .marketname = "Redmi Note 11 Pro 5G",
     .model = "2201116SR",
     .name = "veux_jp",
-    .build_fingerprint = "Redmi/veux_jp/veux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "Redmi/veux_jp/veux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -72,7 +73,7 @@ static const variant_info_t veux_p_global_info = {
     .marketname = "POCO X4 Pro 5G",
     .model = "2201116PG",
     .name = "veux_p_global",
-    .build_fingerprint = "POCO/veux_p_global/veux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "POCO/veux_p_global/veux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
 
     .nfc = true,
 };
@@ -86,7 +87,7 @@ static const variant_info_t peux_p_in_info = {
     .marketname = "POCO X4 Pro 5G",
     .model = "2201116PI",
     .name = "peux_p_in",
-    .build_fingerprint = "POCO/peux_p_in/peux:11/RKQ1.211001.001/V13.0.10.0.RKCMIXM:user/release-keys",
+    .build_fingerprint = "POCO/peux_p_in/peux:11/RKQ1.211001.001/V13.0.13.0.RKCMIXM:user/release-keys",
 };
 
 static const std::vector<variant_info_t> variants = {
