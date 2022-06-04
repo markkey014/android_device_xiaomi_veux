@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_veux.mk
+    $(LOCAL_DIR)/arrow_veux.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_veux-user \
-    lineage_veux-userdebug \
-    lineage_veux-eng
+    arrow_veux-user \
+    arrow_veux-userdebug \
+    arrow_veux-eng
